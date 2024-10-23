@@ -19,14 +19,6 @@
 	text-align: center;
 }
 
-.card h4 {
-	text-align: center;
-}
-
-.card p {
-	flex-grow: 1;
-	padding: 30px;
-	text-align: center;
 
 .cards {
 	display: flex;
