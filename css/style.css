@@ -74,10 +74,11 @@ a {
 
 #apply-section {
 	display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    text-color:#E2D6C5;
-    font-family:'Roboto', sans-serif;
+    	justify-content: center;
+    	align-items: center;
+    	height: 100%;
+    	text-color:#E2D6C5;
+    	font-family:'Roboto', sans-serif;
+	margin-top: 20px
 }
 
