@@ -20,6 +20,11 @@
 }
 
 
+.card h4 {
+	text-align: center;
+}
+
+
 .cards {
 	display: flex;
 	flex-wrap: wrap;
