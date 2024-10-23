@@ -23,13 +23,13 @@ h2, h3 {
 }
 
 h4 {
-  font-family: "Dela Gothic One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 25px;
-	width: 50%; 
- 	margin: 0 auto; 
- 	text-align: center
+  	font-family: "Dela Gothic One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+  	font-size: 25px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	
 }
 
 h1 {
